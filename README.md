@@ -14,6 +14,18 @@ To install dependencies:
 bun install
 ```
 
+OR if you are using yarn
+
+```bash
+yarn
+```
+
+OR if you prefer npm
+
+```bash
+npm install
+```
+
 To run:
 
 ```bash
